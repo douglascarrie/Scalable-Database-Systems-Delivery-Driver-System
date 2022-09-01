@@ -9,7 +9,7 @@ This project aimed to create a database stuctured system for a demo delivery log
 The database contains 5 tables: Drivers, Vehicles, Shift, Parcels and VehiclesLocation.
 
 Below shows the structure of the tables within the database:
-<img src="https://github.com/douglascarrie/Scalable-Database-Systems-Delivery-Driver-System/blob/master/Images/er.png" alt="Example of structure" width="400"/>
+<img src="https://github.com/douglascarrie/Scalable-Database-Systems-Delivery-Driver-System/blob/master/Images/er.png" alt="Example of structure" width="600"/>
 
 
 
